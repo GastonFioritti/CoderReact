@@ -20,13 +20,6 @@ Este proyecto es una aplicación de comercio electrónico (E-commerce) llamada S
 
 - **`src/styles.css`:** Archivo CSS para estilos personalizados.
 
-## Instalación y Ejecución
-
-1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias utilizando `npm install`.
-3. Configura tu proyecto Firebase y actualiza la configuración en `src/firebase/firebaseConfig.js`.
-4. Ejecuta la aplicación con `npm start`.
-
 ## Dependencias Externas
 
 - **React:** Biblioteca para la construcción de interfaces de usuario.
